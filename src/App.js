@@ -1,9 +1,9 @@
 import React from "react"
 import { useState } from "react"
-import { reverse } from "./helpers"
-import { Title } from "./Title"
-import { Paragraph1 } from "./Paragraph1"
-import { Paragraph2 } from "./Paragraph2"
+import { reverse } from "./components/helpers"
+import { Title } from "./components/Title"
+import { Paragraph1 } from "./components/Paragraph1"
+import { Paragraph2 } from "./components/Paragraph2"
 import "./styles.css"
 
 function App() {
